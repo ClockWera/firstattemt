@@ -1,0 +1,61 @@
+[33mcommit 6ecf1668a6bc6e23fe369c9345114b2c6eba9540[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: ClockWera <mikheevalex2k17@yandex.ru>
+Date:   Mon Aug 29 23:10:19 2022 +0300
+
+    huizalupa
+
+[33mcommit ba1db8ec2b0621a565c5864a1da75e3ac1b81720[m[33m ([m[1;32mdev-test[m[33m, [m[1;32mdev-master[m[33m)[m
+Author: ClockWera <mikheevalex2k17@yandex.ru>
+Date:   Sun Aug 28 00:01:10 2022 +0300
+
+    master update
+
+[33mcommit 958ddd9256bad66362f6842c7008f9b23181a4a2[m
+Author: ClockWera <mikheevalex2k17@yandex.ru>
+Date:   Sat Aug 27 23:51:42 2022 +0300
+
+    Revert "created images directory"
+    
+    This reverts commit 3582b34123d4610e7872223445bb16e8c9a653ed.
+
+[33mcommit 112998f2e56fda00e4032610f30fa3b757f46c15[m
+Author: ClockWera <mikheevalex2k17@yandex.ru>
+Date:   Sat Aug 27 23:46:01 2022 +0300
+
+    test commit
+
+[33mcommit f278b3dcd49f5f61046c2d22a0a857c513956c52[m
+Author: ClockWera <mikheevalex2k17@yandex.ru>
+Date:   Sat Aug 27 23:30:45 2022 +0300
+
+    ignore set up
+
+[33mcommit 3582b34123d4610e7872223445bb16e8c9a653ed[m
+Author: ClockWera <mikheevalex2k17@yandex.ru>
+Date:   Sat Aug 27 23:28:35 2022 +0300
+
+    created images directory
+
+[33mcommit 61dc717824aa8e0473f7e7242adc466bffe1548c[m
+Author: ClockWera <mikheevalex2k17@yandex.ru>
+Date:   Sat Aug 27 23:24:24 2022 +0300
+
+    update readme.md
+
+[33mcommit 466ef9f8af6a375866cbc66fd7ffb4a8257d5c84[m
+Author: ClockWera <mikheevalex2k17@yandex.ru>
+Date:   Sat Aug 27 23:17:58 2022 +0300
+
+    add readme.md
+
+[33mcommit 33bba39c7369ff5c2167a943736ed478750df607[m
+Author: ClockWera <mikheevalex2k17@yandex.ru>
+Date:   Thu Aug 25 20:30:44 2022 +0300
+
+    hi
+
+[33mcommit fdd02dc20e1ca1f8e8bae79bcbaf0e8c42ab2753[m
+Author: ClockWera <mikheevalex2k17@yandex.ru>
+Date:   Thu Aug 25 20:20:19 2022 +0300
+
+    innit commit
